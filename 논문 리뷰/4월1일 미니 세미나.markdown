@@ -1,0 +1,74 @@
+## Elias Kaiser : Phenotyping and monitoring crop photosynthesis
+
+HPP- ,, JII - 식품 생산능력 증진을 위한 광합성 효율 향상 연구
+
+1. 광합성 under fluctuating light
+    1. 광합성에는 적당한 빛이 필요, 그러나 이게 stable 하지 않다. 식물이 move, 구름도 move
+    2. 빛 강도는 complex pattern을 가짐 
+    3. 빛 강도에 따라 광합성 비율이 달라진다
+    4. 그러나 fluctuating light에서는 그 비율이 일정하지 않고 낮아진다. 아주 극악으로 다르다
+    5. 왜나면 빛이 즉각적으로 광합성에 관여하지 않기 때문 “광합성 induction”
+    6. 광합성 induction 작물마다 다르다
+    7. 아침 정오 오후에 따라 광에 반응하는 비율이 다르다
+        1. 이게 photosynthetic accumulation에 의한 것인가?
+            1. 정확한 이유는 모르겠다. 기공이 닫혀서 그런걸수도, 엽록체의 색소 떄문에
+            2. photosynthetic accumulation, 아직까지 누구도 정확한 답안을 하지 못했다
+            3. dont measure in the evening이 답인듯
+    8. 광합성 induction 이 다른 환경에 얼마나 영향을 받나?
+        1. salt stress를 받으니 정상에 오르는데 시간이 더 걸린다
+        2. co2 stress를 받으니 광합성 양이 증가
+        3. 기공이 열리고 닫히는 정도가 달라진다
+    9. dynamic 광합성
+        1. 캐노피에 가까이 있을 수록 빛에 더 잘 반응한다 NPQ(빛으로부터 식물을지켜줌)도 잘 나온다
+2. 열 이미지를 통한  반사광 흡수 측정
+    1.  빛 강도는 온도와 관련 → 잎을 뜨겁게 만든 다음 측정 얼마나 차갑게 되는지 측정
+        1. leaf energy balance를 이용한다면 여러 환경을 측정 가능
+    2. light green, dark green 빛의 색도 바꿔서 해봄
+3. phenotyping
+    1. canopy scale에서 측정하는 방법이 필요하겠다
+        1. co2 흡수량, water vapor concen 확인 근데 이거 하고 어떻게 움직이나
+        2. moving the box 가 challenging
+            1. 드론 사용, 스파이더 캠 사용,  
+4. 왜 이렇게 논문을 빨리 잘 쓰나요
+    1. 하루에 500글자씩 쓰기?
+    2. 정신적 도움을 받기
+    3. 조금씩 나아가기, 다른 사람들과 협력하자
+    4. 실험이 끝나기 전에 논문을 조금씩 써본다
+- - -
+## dahae Kim : 전기장에서의 식물의 반응
+
+북극의 식물들이 온도도 낮고 습도도 낮은데 잘 자란다?
+
+electrode에 전기 공급 - 전기장 형성
+
+컨트롤, 위 아래로 , 옆에서 옆으로 5kV/m for 28 days
+
+상추:
+
+shoot fresh 는 수직일 때 root fresh는 수평일 때 가장 높았다
+
+vertical일때 잎 수는 비슷했으나 잎 면적이 v일때 제일 좋았다
+
+v ,h일때 leaf cell expansion이 커졌다
+
+토마토는 어땠나?
+
+Vd, Vu일때 잘 되었네
+
+control 대비 16~24%의 증가
+
+근데 왜 그러는거지?
+
+---
+
+전기장에 의한 신기한 현상
+
+잎이 전기장에 반응한다
+
+---
+
+### 전기장이 식물 내 물의 이동에도 영향을 미치는가
+
+yes 그 amount를 계산하기는 어려울 것 같다
+
+AGC
